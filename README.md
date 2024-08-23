@@ -5,4 +5,4 @@
 实验得知iTransformer-TCN的效果最好。
 数据集用的是kaggle上的[Gtzan](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)数据集，
 可根据需求选择特定的特征。
-![模型结构]('../structure.png')
+![模型结构]('./structure.png')
